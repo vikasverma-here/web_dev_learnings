@@ -1,0 +1,33 @@
+/* there are three types of styling 
+1-inline css
+2-internal css
+3-external css 
+attribute = give and take data to tag in html */
+
+
+
+
+
+
+/* this is tag selector */
+
+/* h1{
+    color: red;
+    font-size: 15px;
+
+}
+#wrap {
+   height: 30%;
+   width: 50%;
+   border: 2px solid black;
+  text-align: center;
+
+}  */
+
+
+/* selct by class  */
+
+/* .heading{
+    color: green;
+
+} */
